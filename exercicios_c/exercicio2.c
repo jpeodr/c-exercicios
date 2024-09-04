@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/* 2 - Crie um programa que verifique a idade da pessoa, caso ela possua 65 anos ela possa ter o benefício. */
 int main(){
   
   	int idade = 65;
