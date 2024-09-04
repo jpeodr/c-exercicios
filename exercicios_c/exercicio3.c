@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/* 3 -  Crie um programa que calcule a média das notas de 4 bimestre e apresente a média, se o estudante tirou mais 
+que 7, exiba aprovado. */
 int main(){
   	float n1, n2, n3, n4, media;
   	n1 = 8;
